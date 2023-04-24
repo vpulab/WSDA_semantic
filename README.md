@@ -89,5 +89,3 @@ run the command line:
 ```bash
 python main.py -r <model_to_validate> --config config/validate.yalm
 ```
-
-### Model weights:
